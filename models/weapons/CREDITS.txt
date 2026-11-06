@@ -1,0 +1,18 @@
+3D Gun Models for game (GLB format)
+All files are free to use in commercial games (CC0 / public domain). No attribution required.
+
+Source: Flat Guns West / Flat Guns East from OpenGameArt (via fps-asset-kit), CC0.
+
+Suggested mapping for your weapons:
+- Rifle_Assault_West.glb or Rifle_Assault_East.glb → VX-7 Carbine
+- SMG_Full_West.glb or SMG_Compact_West.glb → Needle SMG
+- Sniper_Rifle_West.glb or Sniper_Rifle_East.glb → Rail-9 Marksman
+- Pistol variants → sidearms
+- Shotgun variants → additional weapons
+
+West and East are two style variants (slightly different shapes/materials).
+
+Files are already GLB (ready for most engines: Three.js, Unity, Godot, Unreal, etc.).
+Low-poly, game-ready, small file sizes.
+
+Drop into your models/weapons folder and load by name.

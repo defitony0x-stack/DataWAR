@@ -1,0 +1,11 @@
+{
+  "name": "data-war",
+  "version": "0.3.0",
+  "private": true,
+  "scripts": {
+    "start": "serve . -l $PORT"
+  },
+  "dependencies": {
+    "serve": "14.2.4"
+  }
+}

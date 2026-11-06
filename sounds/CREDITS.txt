@@ -1,0 +1,18 @@
+Game sound effects for data-war / VX-7 project
+All files are free to use in commercial games (CC0 / public domain).
+
+Sources:
+- shot0, shot1, shot2, en: Trimmed from The Free Firearm Sound Library (CC0) via OpenGameArt
+  - shot0: AR-15 (VX-7 Carbine style)
+  - shot1: Carl Gustav M45 SMG (Needle SMG)
+  - shot2: Savage 10 .300 Blackout (Rail-9 Marksman style)
+  - en: AK-47 (enemy fire)
+- rl: Gun reload, lock or click sound (CC0) from OpenGameArt
+- hit, hurt: From 100 CC0 SFX pack (rubberduck / OpenGameArt)
+- kill: chop.ogg from Kenney RPG Audio (CC0)
+- step: footstep01.ogg from Kenney RPG Audio (CC0)
+
+Files are trimmed to start near the action, mono 44.1kHz OGG, under 15KB each.
+Drop them into your sounds folder (names match the slots). Existing synthesized sounds are replaced only for files you provide.
+
+Licenses: All CC0 — no attribution required, commercial use OK. (Attribution appreciated for Free Firearm Library creators: Ben Jaszczak et al.)
