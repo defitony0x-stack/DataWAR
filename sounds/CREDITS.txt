@@ -16,3 +16,7 @@ Files are trimmed to start near the action, mono 44.1kHz OGG, under 15KB each.
 Drop them into your sounds folder (names match the slots). Existing synthesized sounds are replaced only for files you provide.
 
 Licenses: All CC0 — no attribution required, commercial use OK. (Attribution appreciated for Free Firearm Library creators: Ben Jaszczak et al.)
+
+Added in 0.15 (all CC0, from battle_sounds.zip):
+- battle_ambience: mixed battle loop (drone, explosions, heavy fire), boosted +9 dB, encoded ogg + mp3
+- voices/*: Kenney Voiceover Pack (OpenGameArt, CC0), trimmed and loudness-normalized
